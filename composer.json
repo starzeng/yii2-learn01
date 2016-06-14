@@ -1,0 +1,21 @@
+{
+    "name": "starzeng/yii2-learn01",
+    "description": "Learn And Test for Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "starzeng",
+            "email": "1369866181@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "starzeng\\learn01\\": ""
+        }
+    }
+}
